@@ -11,10 +11,15 @@ editar base de datos en archivo .env
 APP_URL=YOUR_APP_URL
 .
 DB_CONNECTION=mysql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=3306
+
 DB_DATABASE=laravel
+
 DB_USERNAME=root
+
 DB_PASSWORD=
 
 
@@ -26,6 +31,7 @@ DB_PASSWORD=
 php artisan storage:link
 
 ##Api´s para crear, editar, modificar y eliminar.
+
 
 #http://127.0.0.1:8000/api/clientes
 {
