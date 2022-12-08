@@ -45,6 +45,10 @@ php artisan storage:link
  }
 
 http://127.0.0.1:8000/api/reservas
+{
+ "id_reserva": "1",
+ "id_boleteria": 2,
+ }
 
 http://127.0.0.1:8000/api/boleteria
 {
