@@ -59,4 +59,3 @@ http://127.0.0.1:8000/api/boleteria
         "precio": 1312,
         "cantidad": "1"
 }
-se debe agregar la 
